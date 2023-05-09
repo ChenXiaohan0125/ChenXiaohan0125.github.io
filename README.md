@@ -8,7 +8,7 @@
 
 ## Education experience
 | Time | School | Degree | Major |
-|  ----  | ----  |----  |----  |
+|  ------------  | -----------------------  |-----------  |-------------  |
 | 09.2022-Now | Nanjing University of Aeronautics and Astronautics | \ | Computer Science |
 | 09.2018-06.2022 | Nantong University | Bachelor | Software Engineering |
 
