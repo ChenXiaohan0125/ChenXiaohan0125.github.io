@@ -7,6 +7,7 @@
 - qs_meng@nuaa.edu.cn
 
 ## Education experience
+
 | Time | School | Degree | Major |
 | ---- | ------ | ------ | ----- |
 | 09.2022-Now | Nanjing University of Aeronautics and Astronautics | \ | Computer Science |
